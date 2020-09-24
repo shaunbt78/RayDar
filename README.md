@@ -1,2 +1,2 @@
-# gaydarbot
+# raydarbot
 welp here it is. 
